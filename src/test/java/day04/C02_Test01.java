@@ -58,6 +58,6 @@ public class C02_Test01 {
         System.out.println(sonucYazisiElementi.getText());
         //10-Sayfayi kapatin
         driver.close();
-
+    //deneme
     }
 }
